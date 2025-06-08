@@ -148,10 +148,6 @@ Modify the CSS in the `<style>` section of `index.html` or create a separate CSS
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Ganesh Shejul**
@@ -167,7 +163,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the project, please feel free to:
 - Open an issue on GitHub
-- Contact: support@cafe07.com
+- Contact: contact.ganeshshejul@gmail.com
 
 ---
 
